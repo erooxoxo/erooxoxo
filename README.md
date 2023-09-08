@@ -8,7 +8,7 @@ Aspiring self-taught Software-developer
 
 **About me**
 
-- 💼 Unemployed Student
+- 💼 Unemployed University Student
 
 - 📈 19 Years Of Age
 
