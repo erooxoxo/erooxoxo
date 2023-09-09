@@ -12,6 +12,6 @@ Aspiring self-taught Software-developer
 
 - 📈 19 Years Of Age
 
-- ❤️ FrontEnd / BackEnd / React / WebDesign / ...
+- ❤️ FrontEnd / BackEnd / React / WebDesign / Python / ..
 
 - 💬 Ask me about anything [here](https://github.com/erooxoxo/erooxoxo/issues)
